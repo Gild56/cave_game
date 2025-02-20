@@ -1,0 +1,22 @@
+{
+    "0": {
+        "name": "Grass Block",
+        "model": "resources/models/blocks/block.egg",
+        "texture": "resources/textures/blocks/grass_block.png"
+    },
+    "1": {
+        "name": "Dirt",
+        "model": "resources/models/blocks/block.egg",
+        "texture": "resources/textures/blocks/dirt.jpg"
+    },
+    "2": {
+        "name": "Stone",
+        "model": "resources/models/blocks/block.egg",
+        "texture": "resources/textures/blocks/stone.jpg"
+    },
+    "3": {
+        "name": "Bedrock",
+        "model": "resources/models/blocks/block.egg",
+        "texture": "resources/textures/blocks/bedrock.jpg"
+    }
+}
