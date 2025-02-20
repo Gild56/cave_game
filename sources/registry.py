@@ -2,6 +2,7 @@ import json
 
 from sources.block import Block
 
+
 class Registry:
     def __init__(self):
 

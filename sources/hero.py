@@ -1,5 +1,6 @@
 from sources.registry import Registry
 
+
 KEY_SWITCH_CAMERA = 'c'
 KEY_SWITCH_GAMEMODE = "v"
 KEY_SWITCH_BLOCK = "x"
@@ -68,7 +69,8 @@ class Hero:
             self.enable_third_person_camera()
 
         # 2. Тернарний умовний оператор
-        # self.enable_first_person_camera() if self.camera_mode == 1 else self.enable_third_person_camera()
+        # self.enable_first_person_camera()
+        # if self.camera_mode == 1 else self.enable_third_person_camera()
 
     def switch_gamemode(self):
         if self.gamemode == 0:

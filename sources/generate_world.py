@@ -1,5 +1,6 @@
 import numpy as np
 
+
 size = 16
 
 x = np.linspace(0, 2 * np.pi, size)
